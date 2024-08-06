@@ -1,5 +1,5 @@
-const add = function(a,b) {
-  return a + b;
+const add = function(array) {
+  return array[0] + array[1]
 
 	
 };
